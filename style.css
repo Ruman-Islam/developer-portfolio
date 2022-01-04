@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Luxurious Roman", cursive;
+  font-family: "Poppins", sans-serif;
   text-align: justify;
 }
 
@@ -62,7 +62,7 @@ h1 {
   width: 40%;
   margin: 0 4%;
   padding: 2% 4%;
-  box-shadow: 10px 10px 40px gray;
+  box-shadow: 16px 16px 40px gray;
   border-radius: 10px;
 }
 
